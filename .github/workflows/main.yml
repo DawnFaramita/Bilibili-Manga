@@ -3,7 +3,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: 55 17 * * *
+    - cron: 10 16 * * *
 
 jobs:
   Bilibili-Manga:
